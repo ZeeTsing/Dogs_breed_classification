@@ -1,2 +1,7 @@
 
 *.jpg
+*.PNG
+*.data-00000-of-00002
+*.data-00001-of-00002
+*.pb
+*.index
