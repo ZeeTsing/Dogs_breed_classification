@@ -6,4 +6,4 @@ The final model presented is adpated from InceptionResnet V2, partially retraine
 
 Example of the classification result:
 
-<img src="/dog_result.png">
+<img src="dog_result.png">
