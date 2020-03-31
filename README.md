@@ -1,4 +1,4 @@
-# Dogs_breed_classification
+# Know our Mongrels: Dogs breed classfication
 
 Classify dog breeds from picture, using Standford data set. Total 120 breeds.
 
